@@ -9,6 +9,7 @@ import java.util.List;
 import okhttp3.OkHttpClient;
 
 /**
+ * 业务信息体
  * Created by knight on 2017/3/20.
  */
 
